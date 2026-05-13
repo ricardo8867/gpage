@@ -1,1 +1,2 @@
-Nombre grado y grupo
+Hernandez Villalobos Ricardo Emanuel 
+2A Vespertino Programacion
