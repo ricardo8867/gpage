@@ -1,4 +1,3 @@
-Hernandez Villalobos Ricardo Emanuel 
-Vazquez Diaz jorge luis
-
-2A Programacion vespertino 
+Hernandez villalobos Ricardo Emanuel 
+Vazquez Diaz jorge luis 
+2AVPR
